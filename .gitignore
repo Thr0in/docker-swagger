@@ -9,3 +9,5 @@
 .env.*
 
 !.env.example
+swagger.json
+swagger.yaml
